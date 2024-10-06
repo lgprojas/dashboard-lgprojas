@@ -6,3 +6,6 @@ My dashboard
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lgprojas&layout=compact&langs_count=8&theme=algolia">
   </a>
 </p>
+<p>
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lgprojas)
+</p>
